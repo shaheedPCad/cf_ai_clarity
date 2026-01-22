@@ -11,7 +11,7 @@ class_name = "ConversationDO"
 
 [[migrations]]
 tag = "v1"
-new_classes = ["ConversationDO"]
+new_sqlite_classes = ["ConversationDO"]
 
 [assets]
 directory = "./frontend"
