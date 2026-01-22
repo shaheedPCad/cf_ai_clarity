@@ -1,5 +1,7 @@
 # Clarity - Decision Reasoning Assistant
 
+**Live Demo:** https://cf-ai-clarity.shaheedpcad.workers.dev
+
 A Cloudflare Workers AI application that helps users reason through decisions step by step. Unlike generic chatbots, Clarity has a specific purpose: guiding users through structured decision-making by identifying options, exploring trade-offs, and reaching reasoned conclusions.
 
 ## Features
